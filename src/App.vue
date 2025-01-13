@@ -47,6 +47,7 @@ const routeBgMap = ref({
 .bg-retro {
   background-image: url("/images/characters/stage.jpeg");
   background-position: center;
+  background-size: cover;
 }
 
 </style>
